@@ -4,9 +4,9 @@
   --header-height: 3.5rem;
   /*========== Colors ==========*/
   /*Color mode HSL(hue, saturation, lightness)*/
-  --first-color: hsl(69, 92%, 55%);
-  --first-color-alt: hsl(93, 50%, 48%);
-  --first-color-light: hsl(67, 80%, 50%);
+  --first-color: hsl(210, 92%, 55%);
+  --first-color-alt: hsl(210, 50%, 48%);
+  --first-color-light: hsl(208, 80%, 50%);
   --title-color: hsl(228, 8%, 98%);
   --text-color: hsl(228, 8%, 70%);
   --white-color: hsl(228, 8%, 98%);
@@ -15,8 +15,8 @@
   --container-color: hsl(228, 6%, 12%);
   --shadow-img: 0 0 48px hsla(73, 88%, 50%, 0.461);
   --gradient-card: linear-gradient(180deg,
-                                hsla(93, 8%, 8%),
-                                hsla(93, 40%, 30%));
+                                hsla(210, 8%, 8%),
+                                hsla(210, 40%, 30%));
 
  --body-font: "Montserrat", sans-serif;
   --biggest-font-size: 2.25rem;
@@ -271,7 +271,7 @@ img {
   row-gap: 7.5rem;
 }
 .new__content{
-  row-gap: 6rem;
+  row-gap: 4srem;
 }
 .new__card{
     position: relative;
